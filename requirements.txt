@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+yfinance
+ta
+joblib
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+requests
